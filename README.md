@@ -20,5 +20,5 @@ First, extract the `dataset.zip` and then, run the `prepare.py` file.
 
 ### Acknowledgments
 
-The numbers feature extraction algorithm is based on `[@mghayour]( https://github.com/mghayour )` code and idea.
+The numbers feature extraction algorithm is based on [@mghayour](https://github.com/mghayour) code and idea.
 
